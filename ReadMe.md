@@ -30,9 +30,11 @@ A machine learning project focused on predicting IPL cricket scores using histor
 - **Dataset:** IPL match data
 - **Objective:** Explore cricket score prediction using historical data and deep learning.
 
-🔗 [**View IPL Score Predictor Repository**](https://github.com/Atrayee321/ipl-score-predictor)
+🔗 Project Links
 
-*Replace this repository link if your actual repository has a different name.*
+💻 GitHub Repository: https://github.com/Ashiwany25/IPL-Score-Predictor
+
+🌐 Live Website: https://ashiwany-ipl-predictor.streamlit.app
 
 ## 📚 Areas I'm Exploring
 
