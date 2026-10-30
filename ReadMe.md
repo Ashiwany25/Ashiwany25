@@ -1,3 +1,12 @@
+
+<h1 align="center">Hi, I'm Ashiwany 👋</h1>
+
+<h3 align="center">Aspiring Data Analyst | Machine Learning & AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&repeat=true&lines=Exploring+Data+Analytics+%26+Machine+Learning" alt="Typing SVG" />
+</p>
+
 # 💫 About Me
 
 🎓 I'm a B.Tech student passionate about **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
