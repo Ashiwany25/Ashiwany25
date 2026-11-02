@@ -26,24 +26,23 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Sales Analytics Dashboard
+
+An interactive sales analytics dashboard built with Python, Pandas, Plotly, Streamlit, and MySQL. Analyzes revenue trends, product performance, customer behavior, regional sales, and delivery operations.
+
+**Tech Stack:** Python | Pandas | MySQL | Plotly | Streamlit
+
+🔗 [Live Dashboard](https://ashiwany-ecommerce-dashboard.streamlit.app/) | [GitHub Repository](https://github.com/Ashiwany25/E-Commerce-Sales-Analytics-Dashboard)
 
 ### 🏏 IPL Score Predictor — Deep Learning & ANN
 
-A machine learning project focused on predicting IPL cricket scores using historical match data and an Artificial Neural Network (ANN) built with TensorFlow.
+A machine learning web application that predicts final IPL cricket scores using an Artificial Neural Network (ANN).
 
-**Project Details**
+**Tech Stack:** Python | TensorFlow | Keras | Scikit-learn | Streamlit
 
-- **Domain:** Cricket Analytics & Predictive Modelling
-- **Technologies:** Python, TensorFlow, Keras, ANN, Google Colab
-- **Dataset:** IPL match data
-- **Objective:** Explore cricket score prediction using historical data and deep learning.
-
-🔗 Project Links
-
-💻 GitHub Repository: https://github.com/Ashiwany25/IPL-Score-Predictor
-
-🌐 Live Website: https://ashiwany-ipl-predictor.streamlit.app
+🔗 [Live App](https://ashiwany-ipl-predictor.streamlit.app/) | [GitHub Repository](https://github.com/Ashiwany25/IPL-Score-Predictor)
 
 ## 📚 Areas I'm Exploring
 
