@@ -1,13 +1,17 @@
-# Hi, I'm Ashiwany 👋
+<h1 align="center">Hi, I'm Ashiwany 👋</h1>
 
-### Aspiring Data Analyst | AI & Machine Learning Enthusiast | Software Developer
+<h3 align="center">Aspiring Data Analyst | AI & Machine Learning Enthusiast | Software Developer</h3>
 
-*Building intelligent applications, exploring data, and turning ideas into real-world solutions.*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+intelligent+applications%2C+exploring+data%2C+and+turning+ideas+into+real-world+solutions.&repeat=true" alt="Animated tagline" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ashiwany25&style=flat-square&color=blue)
-[![GitHub](https://img.shields.io/badge/GitHub-Ashiwany25-181717?style=flat-square&logo=github)](https://github.com/Ashiwany25)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashiwany-kumar-b30b20325/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:225ashiwanykumar810@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashiwany25&style=flat-square&color=blue" alt="Profile views" />
+  <a href="https://github.com/Ashiwany25"><img src="https://img.shields.io/badge/GitHub-Ashiwany25-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ashiwany-kumar-b30b20325/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:225ashiwanykumar810@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
@@ -85,7 +89,7 @@ Built using **Google Gemini and LangGraph**, the application combines intelligen
 - AI-generated business intelligence reports.
 - CSV and Excel file support.
 - Downloadable analysis reports.
-- Successfully deployed and functionally tested.
+- Deployed and functionally tested.
 
 **Tech Stack:** `Python` `Google Gemini` `LangGraph` `Pandas` `NumPy` `Plotly` `Streamlit`
 
@@ -126,7 +130,7 @@ The dashboard analyzes revenue trends, product performance, customer behavior, r
 **Key Highlights**
 
 - Revenue and sales performance analysis.
-- Product and category performance insights.
+- Product and category insights.
 - Customer behavior analysis.
 - Regional sales trends.
 - Delivery and operational analytics.
@@ -151,7 +155,7 @@ The project combines cricket match information with deep learning techniques to 
 - IPL cricket score prediction.
 - Artificial Neural Network implementation.
 - Deep learning-based predictive modelling.
-- Interactive web interface.
+- Interactive web application.
 - Sports analytics application.
 
 **Tech Stack:** `Python` `TensorFlow` `Keras` `Scikit-learn` `Streamlit`
@@ -186,16 +190,6 @@ The project combines cricket match information with deep learning techniques to 
 
 ---
 
-## 📈 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ashiwany25&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiwany25&layout=compact&hide_border=true)
-
-*GitHub activity widgets are provided by third-party services and may occasionally be unavailable.*
-
----
-
 ## 🤝 Connect With Me
 
 I'm interested in learning opportunities, technical collaborations, open-source contributions, and discussions about AI, machine learning, and data analytics.
@@ -208,8 +202,10 @@ I'm interested in learning opportunities, technical collaborations, open-source 
 
 ---
 
-### ⭐ Learning. Building. Improving.
+<p align="center">
+  <b>⭐ Learning. Building. Improving. ⭐</b>
+</p>
 
-*Passionate about creating practical AI-powered solutions and continuously growing as a developer.*
-
-**Thanks for visiting my GitHub profile!**
+<p align="center">
+  <i>Thanks for visiting my GitHub profile!</i>
+</p>
