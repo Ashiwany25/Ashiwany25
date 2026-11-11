@@ -1,99 +1,159 @@
 
-<h1 align="center">Hi, I'm Ashiwany 👋</h1>
+<div align="center">
 
-<h3 align="center">
-  AI & Machine Learning Enthusiast | Software Developer | Data Analytics
-</h3>
+# Hi, I'm Ashiwany Kumar 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Intelligent+Applications;Exploring+AI+%26+Machine+Learning;Transforming+Data+into+Insights;Turning+Ideas+into+Real-World+Solutions" alt="Typing animation" />
-</p>
+### AI/ML Enthusiast · Software Developer · Data Analytics
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashiwany25&style=flat-square&color=blue" alt="Profile views" />
-  <a href="https://github.com/Ashiwany25">
-    <img src="https://img.shields.io/badge/GitHub-Ashiwany25-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/ashiwany-kumar-b30b20325/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:225ashiwanykumar810@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Applications;Exploring+Machine+Learning+%26+Agentic+AI;Turning+Data+into+Actionable+Insights;Learning.+Building.+Improving." alt="Animated introduction" />
+
+<br>
+
+**B.Tech — Computer Science & Engineering (AI & ML)**  
+Haldia Institute of Technology · Class of 2028
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashiwany25?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashiwany-kumar-b30b20325/)
+[![Email](https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:225ashiwanykumar810@gmail.com)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ashiwany25&style=flat-square&color=58A6FF)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech student in Computer Science & Engineering (AI & ML)** at **Haldia Institute of Technology**, passionate about developing intelligent applications and solving real-world problems through technology.
+I'm a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning**, with a strong interest in building practical, end-to-end software solutions.
 
-I enjoy working across **machine learning, data analytics, generative AI, and software development**, turning ideas into practical, interactive applications.
+My work spans **machine learning, intelligent agents, data analytics, and interactive applications** — from training predictive models to developing and deploying user-facing systems.
 
-- 🔭 **Building:** AI-powered applications, ML systems, and data-driven solutions.
-- 🤖 **Exploring:** Generative AI, Agentic AI, LangGraph, and deep learning.
-- 📊 **Interested in:** Business intelligence, predictive analytics, and data visualization.
-- 🗺️ **Researching:** Adaptive 2.5D LiDAR mapping and spatial computing.
-- 💻 **Practicing:** Data Structures and Algorithms using C++.
-- 🎯 **Career Goal:** AI/ML Engineer and Software Developer.
+- 🔭 **Building:** AI-powered applications, ML pipelines, and data-driven tools
+- 🧠 **Exploring:** Generative AI, Agentic AI, deep learning, and computer vision
+- 🗺️ **Working on:** Adaptive 2.5D LiDAR mapping and autonomous navigation concepts
+- 💻 **Practicing:** Data Structures & Algorithms in C++
+- 🎯 **Career Interests:** AI/ML Engineering and Software Development
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🧠 Machine Learning & Data Analytics
+**Machine Learning & Data Analytics**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
-### 🤖 Generative AI & Agentic AI
+**AI, Frameworks & Tools**
 
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-7B2CBF?style=for-the-badge)
-
-### ⚙️ Frameworks, Databases & Tools
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-A selection of my projects spanning **Artificial Intelligence, Machine Learning, Data Analytics, and Spatial Computing**.
+A selection of my work across **Agentic AI, Machine Learning, Data Analytics, and Spatial Computing**.
 
-| Project | Description | Tech Stack | Links |
-|---|---|---|---|
-| 🤖 **Autonomous AI Data Analyst** | AI-powered analytics application for exploring datasets, executing analytical workflows, and generating business insights. | Python, Gemini, LangGraph, Pandas, Plotly | [Live Demo](https://autonomous-ai-analyst-ashiwany25.streamlit.app/) · [Code](https://github.com/Ashiwany25/autonomous-ai-data-analyst) |
-| 🗺️ **Adaptive 2.5D LiDAR Mapping** | Interactive spatial computing project exploring adaptive-resolution mapping, elevation representations, and LiDAR visualization. | Python, LiDAR, Streamlit | [Live Demo](https://ashiwany-2-5d-lidar-mapping.streamlit.app/) · [Code](https://github.com/Ashiwany25/Adaptive-2.5D-LiDAR-Mapping) |
-| 🛒 **E-Commerce Sales Analytics Dashboard** | Interactive business intelligence dashboard for revenue trends, customer behavior, product performance, and regional sales analysis. | Python, Pandas, MySQL, Plotly, Streamlit | [Live Demo](https://ashiwany-ecommerce-dashboard.streamlit.app/) · [Code](https://github.com/Ashiwany25/E-Commerce-Sales-Analytics-Dashboard) |
-| 🎬 **Movie Recommendation System** | Content-based movie recommendation application that suggests similar movies through an interactive interface. | Python, Machine Learning, Streamlit | [Live Demo](https://movie-recommendation-system-ashiwany25.streamlit.app/) · [Code](https://github.com/Ashiwany25/Movie-Recommendation-System) |
+### 🤖 01 · Autonomous AI Data Analyst
 
-<br>
+**Agentic AI · Natural Language Analytics · Business Intelligence**
+
+An AI-powered analytics application that combines **Google Gemini, LangGraph, and Python** to help users explore datasets through natural-language interactions.
+
+- Agent-based analytical workflow orchestration
+- Dataset profiling and exploratory data analysis
+- Interactive charts and business insight generation
+- CSV and Excel data analysis
+
+**Tech:** Python · Gemini · LangGraph · Pandas · Plotly · Streamlit
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://autonomous-ai-analyst-ashiwany25.streamlit.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ashiwany25/autonomous-ai-data-analyst)
+
+---
+
+### 🗺️ 02 · Adaptive 2.5D LiDAR Mapping
+
+**Spatial Computing · Adaptive Mapping · LiDAR Visualization**
+
+A spatial computing project exploring adaptive-resolution mapping and elevation-based representations of LiDAR point-cloud data.
+
+- Adaptive 2.5D elevation mapping concepts
+- Spatial data processing and visualization
+- Interactive mapping dashboard
+- Exploration of efficient environment representation
+
+**Tech:** Python · LiDAR · Spatial Data Processing · Streamlit
+
+[![Live Demo](https://img.shields.io/badge/Live_Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://ashiwany-2-5d-lidar-mapping.streamlit.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ashiwany25/Adaptive-2.5D-LiDAR-Mapping)
+
+---
+
+### 🛒 03 · E-Commerce Sales Analytics Dashboard
+
+**Data Analytics · Business Intelligence · Interactive Dashboards**
+
+An end-to-end analytics dashboard that transforms e-commerce data into actionable business insights.
+
+- Revenue, sales, and product performance analysis
+- Customer behavior and regional sales insights
+- Interactive visualizations and KPI reporting
+- Delivery and operational performance exploration
+
+**Tech:** Python · Pandas · MySQL · Plotly · Streamlit
+
+[![Live Demo](https://img.shields.io/badge/Live_Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://ashiwany-ecommerce-dashboard.streamlit.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ashiwany25/E-Commerce-Sales-Analytics-Dashboard)
+
+---
+
+### 🎬 04 · Movie Recommendation System
+
+**Machine Learning · Recommendation Systems · NLP**
+
+A content-based movie recommendation application that helps users discover similar movies based on movie-related features.
+
+- Content-based similarity recommendations
+- Text feature processing and vectorization
+- Similarity-based movie ranking
+- Interactive movie discovery interface
+
+**Tech:** Python · Scikit-learn · Pandas · Streamlit
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://movie-recommendation-system-ashiwany25.streamlit.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ashiwany25/Movie-Recommendation-System)
+
+---
 
 <div align="center">
 
-### 📂 Explore More Projects
+### 📂 More Projects
 
-I also build projects involving **NLP, personal AI assistants, predictive modeling, and autonomous systems**.
+Explore my other work in **NLP, AI assistants, predictive modeling, automation, and software development**.
 
 <a href="https://github.com/Ashiwany25?tab=repositories">
   <img src="https://img.shields.io/badge/VIEW_ALL_MY_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All My Projects" />
@@ -103,46 +163,41 @@ I also build projects involving **NLP, personal AI assistants, predictive modeli
 
 ---
 
-## 🎯 Areas of Interest
+## 🏆 Highlights
 
-- Artificial Intelligence and Machine Learning
-- Generative AI and Autonomous Agents
-- Data Analytics and Business Intelligence
-- Natural Language Processing
-- Deep Learning and Computer Vision
-- Spatial Computing and LiDAR Mapping
-- Software Engineering and Problem Solving
+- **Smart India Hackathon 2026:** Cleared the college internal selection round with an adaptive 2.5D LiDAR mapping project.
+- **End-to-end development:** Experience building machine learning applications from data preprocessing through deployment.
+- **Deployed projects:** Developed interactive AI/ML and analytics applications accessible through live web interfaces.
+- **Continuous learning:** Strengthening software engineering fundamentals, DSA, and practical AI development.
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Activity
 
-I'm open to **internships, learning opportunities, technical collaborations, and open-source contributions** in AI, machine learning, and software development.
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Ashiwany25">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/ashiwany-kumar-b30b20325/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Ashiwany25">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.instagram.com/ashiwany25/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:225ashiwanykumar810@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiwany25&layout=compact&hide_border=true&langs_count=6" alt="Most Used Languages" />
+
+</div>
+
+<sub>Language statistics reflect public repository code, not overall proficiency.</sub>
 
 ---
 
-<p align="center">
-  <b>⭐ Learning. Building. Improving. ⭐</b>
-</p>
+## 🤝 Let's Connect
 
-<p align="center">
-  <i>Thanks for visiting my GitHub profile!</i>
-</p>
+I'm interested in **AI/ML internships, software development opportunities, technical collaborations, and open-source projects**.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashiwany25)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashiwany-kumar-b30b20325/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:225ashiwanykumar810@gmail.com)
+
+<br>
+
+**Learning. Building. Improving.**
+
+*Thanks for visiting my GitHub profile!*
+
+</div>
